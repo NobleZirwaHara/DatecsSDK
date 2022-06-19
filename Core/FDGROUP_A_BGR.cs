@@ -1,11 +1,13 @@
 ﻿//
-//  Fiscal Devices Group "A" - Bulgaria
+//  Fiscal Devices Group "B" - Bulgaria
 //
-//  Created by Rosi, Flex and Doba on 04.07.2019
-//  Modified on 04.07.2019
-//  Copyright (c) 2019 Datecs. All rights reserved.
+//  Created by Rosi and Doba on 04.07.2019
+//  Modified by Noble on 19.06.2022
+//  
 //
 
+using DatecsSDK.Common;
+using DatecsSDK.Translator;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
