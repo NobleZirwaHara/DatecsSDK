@@ -3,7 +3,7 @@ using System.IO.Ports;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace TestSDK
+namespace DatecsSDK.Common
 {
     public class FiscalCommWinSocket : FiscalComm
     {

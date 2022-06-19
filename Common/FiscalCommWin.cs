@@ -2,7 +2,7 @@
 using System.IO.Ports;
 using System.Threading;
 
-namespace TestSDK
+namespace DatecsSDK.Common
 {
     public class FiscalCommWin : FiscalComm
     {

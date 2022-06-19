@@ -6,6 +6,7 @@
 //  Copyright (c) 2019 Datecs. All rights reserved.
 //
 
+using DatecsSDK.Translator;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -13,7 +14,7 @@ using System.Drawing.Imaging;
 using System.Text;
 using ZXing;
 
-namespace TestSDK
+namespace DatecsSDK.Core
 {
     /// <summary>
     /// Fiscal Devices Group "B" - Bulgaria

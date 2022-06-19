@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Runtime;
 
-namespace TestSDK
+namespace DatecsSDK.Common
 {
     public enum TLanguage
     {

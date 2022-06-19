@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TestSDK
+namespace DatecsSDK.Common
 {
     public abstract class FiscalComm
     {

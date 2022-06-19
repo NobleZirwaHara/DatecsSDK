@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace TestSDK
+namespace DatecsSDK.Common
 {
     public enum FiscalDeviceGroup
     {

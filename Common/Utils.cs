@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace TestSDK
+namespace DatecsSDK.Common
 {
     public class Utils
     {

@@ -15,7 +15,7 @@ using System.Linq;
 using System.Text;
 using ZXing;
 
-namespace TestSDK
+namespace DatecsSDK.Core
 {
     /// <summary>
     /// Fiscal Devices Group "A" - Bulgaria

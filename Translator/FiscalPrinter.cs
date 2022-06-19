@@ -2,7 +2,7 @@
 using System.Text;
 using System.Threading;
 
-namespace TestSDK
+namespace DatecsSDK.Translator
 {
     public enum FiscalPrinterProtocol
     {
